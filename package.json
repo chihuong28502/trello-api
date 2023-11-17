@@ -1,0 +1,17 @@
+{
+  "name": "trello-api",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "chihuong28502",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chihuong",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "i": "^0.3.7",
+    "npm": "^10.2.4"
+  }
+}
